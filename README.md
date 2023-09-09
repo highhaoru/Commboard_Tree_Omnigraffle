@@ -5,6 +5,8 @@ This repository contains a visual representation of a communication board, or "c
 - Main menus, sub-menus, words, discussions, experiences, emotions, and more.
 - Diverse categories such as seasons, holidays, animals, fantasy, family members, food & drinks, games, and more.
 
+![Commboard Tree](res/Commboard%20tree.png)
+
 ## Usage
 1. Clone or download the repository.
 2. Open the provided .graffle file with Omnigraffle software.
